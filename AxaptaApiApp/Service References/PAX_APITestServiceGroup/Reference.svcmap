@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1ae77a3c-d26a-42ee-a899-cb055e27fdbd" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://PAX-AX6-141:8101/DynamicsAx/Services/PAX_APITestServiceGroup" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="PAX_APITestServiceGroup.wsdl" MetadataType="Wsdl" ID="4d4ff8f4-7617-4481-8241-f814f4c1b899" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/PAX_APITestServiceGroup?wsdl=wsdl0" />
+    <MetadataFile FileName="PAX_APITestServiceGroup.xsd" MetadataType="Schema" ID="46583605-8622-4e59-9d9e-2897a55677cc" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/PAX_APITestServiceGroup?xsd=xsd4" />
+    <MetadataFile FileName="PAX_APITestServiceGroup1.xsd" MetadataType="Schema" ID="baac281b-d7c3-4e2c-86dd-62d9f01c84ea" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/PAX_APITestServiceGroup?xsd=xsd3" />
+    <MetadataFile FileName="PAX_APITestServiceGroup2.xsd" MetadataType="Schema" ID="78493759-30d0-42cf-826b-353d1c0f38e5" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/PAX_APITestServiceGroup?xsd=xsd1" />
+    <MetadataFile FileName="PAX_APITestServiceGroup3.xsd" MetadataType="Schema" ID="dc9a6cac-2bff-4a9a-9f1f-828a1cbf3cca" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/PAX_APITestServiceGroup?xsd=xsd2" />
+    <MetadataFile FileName="PAX_APITestServiceGroup1.wsdl" MetadataType="Wsdl" ID="a6355a26-b462-4fa4-854b-1ef8f2b51a24" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/PAX_APITestServiceGroup" />
+    <MetadataFile FileName="PAX_APITestServiceGroup4.xsd" MetadataType="Schema" ID="6e9d13e7-791d-4c30-95c2-481579c097d8" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/PAX_APITestServiceGroup?xsd=xsd5" />
+    <MetadataFile FileName="PAX_APITestServiceGroup5.xsd" MetadataType="Schema" ID="7d29745d-8cde-47ff-ae38-c2a8c22cb716" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/PAX_APITestServiceGroup?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

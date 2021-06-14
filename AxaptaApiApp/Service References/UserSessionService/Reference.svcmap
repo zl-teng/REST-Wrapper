@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d89587d5-efef-44ca-9265-afed37921ac5" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://PAX-AX6-141:8101/DynamicsAx/Services/UserSessionService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="UserSessionService8.xsd" MetadataType="Schema" ID="f88ee092-a23e-4608-b38c-10e95d7a1c75" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/UserSessionService?xsd=xsd7" />
+    <MetadataFile FileName="UserSessionService81.xsd" MetadataType="Schema" ID="9efbcc94-860c-45a1-92f1-c5e9e3fe0de9" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/UserSessionService?xsd=xsd2" />
+    <MetadataFile FileName="UserSessionService2.wsdl" MetadataType="Wsdl" ID="8159b5b2-5352-4c6c-92e1-ad00f22899ff" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/UserSessionService" />
+    <MetadataFile FileName="UserSessionService21.wsdl" MetadataType="Wsdl" ID="2a174ddb-2fc9-4ed5-b209-131080040972" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/UserSessionService?wsdl=wsdl0" />
+    <MetadataFile FileName="UserSessionService82.xsd" MetadataType="Schema" ID="f0a80900-b92d-45e6-af2c-2ce56a0cf3c1" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/UserSessionService?xsd=xsd1" />
+    <MetadataFile FileName="UserSessionService83.xsd" MetadataType="Schema" ID="d90edbb3-f857-48e9-840d-777b0a970129" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/UserSessionService?xsd=xsd0" />
+    <MetadataFile FileName="UserSessionService84.xsd" MetadataType="Schema" ID="e85ff06d-fcb1-4195-9069-eeda1d0b0d93" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/UserSessionService?xsd=xsd4" />
+    <MetadataFile FileName="UserSessionService85.xsd" MetadataType="Schema" ID="4789b429-4113-48cd-88ae-de585bff3501" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/UserSessionService?xsd=xsd6" />
+    <MetadataFile FileName="UserSessionService86.xsd" MetadataType="Schema" ID="26675a65-6075-4207-9ab7-be55bce91d67" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/UserSessionService?xsd=xsd5" />
+    <MetadataFile FileName="UserSessionService87.xsd" MetadataType="Schema" ID="b1c1c1b8-ff4c-4213-b4c4-cd2ab45f74f0" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/UserSessionService?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

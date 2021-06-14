@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b4663368-ccb2-4b6d-a15f-62792fb0d36d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://PAX-AX6-141:8101/DynamicsAx/Services/QueryService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="QueryService10.xsd" MetadataType="Schema" ID="a4729107-981a-435b-9e23-af17eae00cd7" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/QueryService?xsd=xsd7" />
+    <MetadataFile FileName="QueryService101.xsd" MetadataType="Schema" ID="a2af6850-1e15-4eaa-8eab-2ecc81021b95" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/QueryService?xsd=xsd6" />
+    <MetadataFile FileName="QueryService102.xsd" MetadataType="Schema" ID="cc79d846-1c51-499f-b692-b5a806f68b59" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/QueryService?xsd=xsd1" />
+    <MetadataFile FileName="QueryService103.xsd" MetadataType="Schema" ID="f6a7b821-8b32-4963-b151-e47f9353ccd8" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/QueryService?xsd=xsd0" />
+    <MetadataFile FileName="QueryService104.xsd" MetadataType="Schema" ID="aa46f8c1-e325-43a0-90a1-6e6fa9b56c0c" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/QueryService?xsd=xsd3" />
+    <MetadataFile FileName="QueryService105.xsd" MetadataType="Schema" ID="58907cd8-853d-4e3d-b0b6-c7ecf3fa385c" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/QueryService?xsd=xsd2" />
+    <MetadataFile FileName="QueryService106.xsd" MetadataType="Schema" ID="d2bfc0c4-919a-467d-a182-f5de5b4cf3f0" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/QueryService?xsd=xsd9" />
+    <MetadataFile FileName="QueryService107.xsd" MetadataType="Schema" ID="d2307f65-9dee-468c-bf01-f6c30b03931f" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/QueryService?xsd=xsd8" />
+    <MetadataFile FileName="QueryService1.wsdl" MetadataType="Wsdl" ID="6d6b3aaf-a2db-4f1f-8f4c-8c800adea537" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/QueryService" />
+    <MetadataFile FileName="QueryService108.xsd" MetadataType="Schema" ID="d416aa2c-1171-4587-91d8-c6fc466ca2b4" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/QueryService?xsd=xsd5" />
+    <MetadataFile FileName="QueryService109.xsd" MetadataType="Schema" ID="ff679471-30dc-4aa2-885f-301fc186a9bb" SourceId="1" SourceUrl="http://pax-ax6-141:8101/DynamicsAx/Services/QueryService?xsd=xsd4" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
